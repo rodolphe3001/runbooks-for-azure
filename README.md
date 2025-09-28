@@ -10,6 +10,7 @@ This repository will not accepting contributions (pull requests, issues, etc). I
 For more details, please read the [Contributing](./CONTRIBUTING) file.
 
 # Security
+For more details concerning the security subject, please read the [Security](./SECURITY.md) file.
 
 # Support 
 This repository is published without support.
